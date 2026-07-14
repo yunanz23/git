@@ -1,0 +1,3 @@
+﻿# git
+
+Project initialized.
