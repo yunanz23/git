@@ -6,7 +6,7 @@
 
 | 插件 | 说明 | 版本 |
 |---|---|---|
-| `zhangxuefeng-perspective` | 张雪峰视角：5 个核心心智模型、8 条决策启发式与完整表达 DNA | 1.0.1 |
+| `zhangxuefeng-perspective` | 张雪峰视角：5 个核心心智模型、8 条决策启发式与完整表达 DNA | 1.0.2 |
 
 ## 安装
 
