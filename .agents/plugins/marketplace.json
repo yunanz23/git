@@ -1,0 +1,20 @@
+{
+  "name": "yunanz23-plugins",
+  "interface": {
+    "displayName": "我的插件市场"
+  },
+  "plugins": [
+    {
+      "name": "zhangxuefeng-perspective",
+      "source": {
+        "source": "local",
+        "path": "./plugins/zhangxuefeng-perspective"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

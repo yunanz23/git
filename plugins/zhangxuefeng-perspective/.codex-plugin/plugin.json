@@ -1,0 +1,25 @@
+{
+  "name": "zhangxuefeng-perspective",
+  "version": "1.0.1",
+  "description": "张雪峰的思维框架与表达方式：用张雪峰的视角分析教育选择、职业规划与阶层流动。",
+  "author": {
+    "name": "yunanz23",
+    "url": "https://github.com/yunanz23"
+  },
+  "homepage": "https://github.com/yunanz23/zhangxuefeng-skill",
+  "repository": "https://github.com/yunanz23/zhangxuefeng-skill",
+  "license": "MIT",
+  "keywords": ["zhangxuefeng", "张雪峰", "gaokao", "高考志愿", "考研", "career", "职业规划", "perspective", "skill"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "张雪峰视角",
+    "shortDescription": "用张雪峰的视角做教育与职业决策",
+    "longDescription": "张雪峰的认知操作系统：5 个核心心智模型、8 条决策启发式和完整的表达 DNA，可直接以张雪峰的语气回应高考志愿、考研、职业规划与阶层流动等问题。",
+    "developerName": "yunanz23",
+    "category": "Productivity",
+    "capabilities": ["Interactive"],
+    "websiteURL": "https://github.com/yunanz23/zhangxuefeng-skill",
+    "defaultPrompt": ["用张雪峰的视角帮我分析这个专业选择", "张雪峰会怎么看这个职业方向？", "切换到张雪峰，我孩子要填志愿了"],
+    "screenshots": []
+  }
+}
