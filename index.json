@@ -63,7 +63,7 @@
           "source": {
             "type": "git",
             "url": "https://github.com/yunanz23/git",
-            "commit": "0000000000000000000000000000000000000000",
+            "commit": "74d3733fb6bbcbebd6b2d80e9e18bd4014306b31",
             "path": "plugins/zhangxuefeng-perspective"
           },
           "engines": {
