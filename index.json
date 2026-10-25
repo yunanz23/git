@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "title": {
+    "en": "yunanz23 plugins",
+    "zh": "yunanz23 插件市场"
+  },
+  "description": {
+    "en": "DeepSeek Harness plugins maintained by yunanz23.",
+    "zh": "由 yunanz23 维护的 DeepSeek Harness 插件。"
+  },
+  "metadata": {
+    "categories": {
+      "productivity": {
+        "title": {
+          "en": "Productivity",
+          "zh": "生产力"
+        }
+      }
+    },
+    "labels": {
+      "education": {
+        "title": {
+          "en": "Education",
+          "zh": "教育"
+        }
+      },
+      "career": {
+        "title": {
+          "en": "Career",
+          "zh": "职业"
+        }
+      }
+    }
+  },
+  "plugins": [
+    {
+      "name": "dsh-zhangxuefeng-perspective",
+      "title": {
+        "en": "Zhang Xuefeng Perspective",
+        "zh": "张雪峰视角"
+      },
+      "description": {
+        "en": "Use Zhang Xuefeng's frameworks and communication style for education and career decisions.",
+        "zh": "用张雪峰的思维框架和表达方式分析教育选择和职业规划。"
+      },
+      "author": "yunanz23",
+      "homepage": "https://github.com/yunanz23/git#readme",
+      "repository": {
+        "url": "https://github.com/yunanz23/git",
+        "directory": "plugins/zhangxuefeng-perspective"
+      },
+      "metadata": {
+        "category": "productivity",
+        "labels": [
+          "education",
+          "career"
+        ]
+      },
+      "versions": [
+        {
+          "version": "1.0.2",
+          "publishTimestamp": 1792913162,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/yunanz23/git",
+            "commit": "0000000000000000000000000000000000000000",
+            "path": "plugins/zhangxuefeng-perspective"
+          },
+          "engines": {
+            "dsh": ">=0.2.0 <0.3.0"
+          }
+        }
+      ]
+    }
+  ]
+}

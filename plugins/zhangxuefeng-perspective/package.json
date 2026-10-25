@@ -1,0 +1,29 @@
+{
+  "name": "dsh-zhangxuefeng-perspective",
+  "version": "1.0.2",
+  "description": "Use Zhang Xuefeng's frameworks and communication style for education and career decisions.",
+  "type": "module",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "skills"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunanz23/git.git",
+    "directory": "plugins/zhangxuefeng-perspective"
+  },
+  "engines": {
+    "dsh": ">=0.2.0 <0.3.0"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "dependencies": {
+    "yaml": "^2.8.1"
+  }
+}

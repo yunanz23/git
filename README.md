@@ -2,6 +2,14 @@
 
 这是一个 Codex 插件市场仓库（marketplace），插件放在 `plugins/` 下面；市场清单位于 `.agents/plugins/marketplace.json`。
 
+同一仓库也提供 DeepSeek Harness 插件索引。在「插件 → 发现 → 添加索引源」中填写：
+
+```text
+https://cdn.jsdelivr.net/gh/yunanz23/git@main/index.json
+```
+
+`plugins/zhangxuefeng-perspective/` 同时包含 Codex 插件清单、DSH bundle 清单和共用的 `SKILL.md`。
+
 ## 已收录
 
 | 插件 | 说明 | 版本 |
